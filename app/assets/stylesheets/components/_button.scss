@@ -1,0 +1,25 @@
+.padding-button {
+  position: absolute;
+  // left: 20px;
+  // bottom: 20px;
+   justify-content: left;
+  align-items: bottom;
+}
+
+.btn-blue {
+  background-color: #16262E;
+  color: white;
+  padding: 20px 20px;
+  border-radius: 4px;
+}
+
+.btn-blue:hover {
+    background-color: black;
+    color: white;
+}
+
+.text-one {
+  text-align: center;
+}
+
+
