@@ -1,0 +1,32 @@
+.card-category {
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  padding-left: 50px;
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  // border-radius: 5px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
+
+.image-logo {
+  justify-content: center;
+}
+
+.card-body {
+// border: 1px solid rgba(0, 0, 0, 0.125);
+background-color: white;
+}
+
+.font-title {
+font-weight: bold;
+}
+
+.style_image {
+  margin-left: 280px;
+}
